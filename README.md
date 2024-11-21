@@ -1,5 +1,4 @@
-# TestMaker README
-
+# TestMaker
 ## Overview
 
 The TestMaker is a Python-based tool that generates a custom multiple-choice exam based on questions from an Excel file. The script selects questions randomly, presents them to the user for answering, tracks correct and incorrect responses, and generates a report with the results, including score, questions answered correctly, and incorrect answers.
