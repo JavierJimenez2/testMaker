@@ -7,7 +7,7 @@ The TestMaker is a Python-based tool that generates a custom multiple-choice exa
 
 | Imagen 1 | Imagen 2 | Imagen 3 |
 |----------|----------|----------|
-| ![Imagen 1]([ruta/imagen1.png](https://github.com/JavierJimenez2/testMaker/blob/master/Testmaker.png?raw=true)) | ![Imagen 2]([ruta/imagen2.png](https://github.com/JavierJimenez2/testMaker/blob/master/Testmaker2.png?raw=true)) | ![Imagen 3]([ruta/imagen3.png](https://github.com/JavierJimenez2/testMaker/blob/master/Testmaker3.png?raw=true)) |
+| ![Imagen 1](https://github.com/JavierJimenez2/testMaker/blob/master/Testmaker.png?raw=true) | ![Imagen 2](https://github.com/JavierJimenez2/testMaker/blob/master/Testmaker2.png?raw=true) | ![Imagen 3](https://github.com/JavierJimenez2/testMaker/blob/master/Testmaker3.png?raw=true) |
 
 
 ## Features
